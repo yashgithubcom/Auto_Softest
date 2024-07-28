@@ -1,2 +1,2 @@
-##Automated Software Testing using Python
+## Automated Software Testing using Python
 This repository contains resources and examples for implementing automated software testing using Python. Automated testing is a crucial aspect of modern software development, ensuring code quality, reliability, and efficiency. With Python's robust testing frameworks, such as unittest, pytest, and nose, developers can write comprehensive test suites to automate the validation of their software applications.
